@@ -15,11 +15,11 @@ Created a relational database optimized for querying, analysis, and scalability.
 **Database Name:** `Zomato_DB`
 
 - **Imported Data:** Successfully imported 5 CSV files into SQL Server, creating the following database tables:
-    - **Orders :  10,000 records with 8 attributes**
-    - **Customers : 33 records with 3 attributes**
-    - **Deliveries:  9,750 records with 5 attributes**
-    - **Restaurants : 72 records with 5 attributes.**
-    - **Riders : 34 records with 3 attributes**
+    - **Orders :  10,000 records with 8 attributes**   <a href ="orders.csv"> Orders Dataset Link</a>
+    - **Customers : 33 records with 3 attributes**     <a href ="orders.csv"> Orders Dataset link</a>
+    - **Deliveries:  9,750 records with 5 attributes** <a href ="orders.csv"> Orders Dataset link </a>
+    - **Restaurants : 72 records with 5 attributes.**  <a href ="orders.csv"> Orders Dataset link </a>
+    - **Riders : 34 records with 3 attributes**        <a href ="orders.csv"> Orders Dataset link</a>
 
 ![Er Diagram Before RelationShips](https://github.com/user-attachments/assets/f9c1957a-b95c-4c18-9475-d42620cb3588)
 
