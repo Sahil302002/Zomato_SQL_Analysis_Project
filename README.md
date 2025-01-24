@@ -20,6 +20,9 @@ Created a relational database optimized for querying, analysis, and scalability.
     - **Deliveries:  9,750 records with 5 attributes**
     - **Restaurants : 72 records with 5 attributes.**
     - **Riders : 34 records with 3 attributes**
+
+![Er Diagram Before RelationShips](https://github.com/user-attachments/assets/f9c1957a-b95c-4c18-9475-d42620cb3588)
+
 - **Data Type Adjustments:**
     - Ensured efficient and compatible data types, e.g., `INT`, `VARCHAR`, `DATE`, etc.
 - **Constraints Applied:**
@@ -30,6 +33,7 @@ Created a relational database optimized for querying, analysis, and scalability.
         - `Orders (customer_id)` → `Customers (customer_id)`
         - `Orders (restaurant_id)` → `Restaurants (restaurant_id)`
         - `Deliveries (rider_id)` → `Riders (rider_id)`
+![Er Diagram After Relationships](https://github.com/user-attachments/assets/25923c7d-d619-4c6b-84bc-31b4a9a2a2c9)
 
 ## Outcome of the Task
 
