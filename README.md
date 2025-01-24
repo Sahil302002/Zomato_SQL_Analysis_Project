@@ -33,6 +33,7 @@ Created a relational database optimized for querying, analysis, and scalability.
         - `Orders (customer_id)` → `Customers (customer_id)`
         - `Orders (restaurant_id)` → `Restaurants (restaurant_id)`
         - `Deliveries (rider_id)` → `Riders (rider_id)`
+      
 ![Er Diagram After Relationships](https://github.com/user-attachments/assets/25923c7d-d619-4c6b-84bc-31b4a9a2a2c9)
 
 ## Outcome of the Task
