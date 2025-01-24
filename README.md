@@ -66,7 +66,7 @@ After confirming the data quality, exploratory analysis was conducted to gain de
 ---
 Files Link
 
-Sql script created in this Project:
+Sql script created in this Project: 
 
 Pdf of SQlL Query and It’s solution:
 
