@@ -1,4 +1,7 @@
 # Zomato_SQL_Analysis_Project
+
+![Zomato-Logo](https://github.com/user-attachments/assets/b0da08fe-34d1-4a20-b4ac-26e94b8bc662)
+
 This project focuses on analyzing Zomato's database to uncover operational insights and customer trends using SQL Server Management Studio. It involves data preparation, cleaning, exploratory analysis, and formulating key business queries to generate actionable insights.
 
 The project highlights the effectiveness of relational database design paired with SQL-driven analytics. By examining Zomato's operational data, it delivers valuable insights to optimize efficiency, boost revenue, and enhance customer satisfaction.
