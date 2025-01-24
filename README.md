@@ -16,10 +16,10 @@ Created a relational database optimized for querying, analysis, and scalability.
 
 - **Imported Data:** Successfully imported 5 CSV files into SQL Server, creating the following database tables:
     - **Orders :  10,000 records with 8 attributes**   <a href ="orders.csv"> Orders Dataset Link</a>
-    - **Customers : 33 records with 3 attributes**     <a href ="orders.csv"> Orders Dataset link</a>
-    - **Deliveries:  9,750 records with 5 attributes** <a href ="orders.csv"> Orders Dataset link </a>
-    - **Restaurants : 72 records with 5 attributes.**  <a href ="orders.csv"> Orders Dataset link </a>
-    - **Riders : 34 records with 3 attributes**        <a href ="orders.csv"> Orders Dataset link</a>
+    - **Customers : 33 records with 3 attributes**     <a href ="orders.csv"> Customers Dataset link</a>
+    - **Deliveries:  9,750 records with 5 attributes** <a href ="deliveries.csv"> deliveries Dataset link </a>
+    - **Restaurants : 72 records with 5 attributes.**  <a href ="orders.csv"> Restaurants Dataset link </a>
+    - **Riders : 34 records with 3 attributes**        <a href ="orders.csv"> Riders Dataset link </a>
 
 ![Er Diagram Before RelationShips](https://github.com/user-attachments/assets/f9c1957a-b95c-4c18-9475-d42620cb3588)
 
