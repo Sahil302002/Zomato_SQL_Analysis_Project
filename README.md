@@ -55,7 +55,8 @@ After confirming the data quality, exploratory analysis was conducted to gain de
     
 - **Extracting Insights:** Analyzed the most recent order date to understand the latest transactions and identified the freshness of the data.
 - **Comparative Analysis:** Retrieved the current date to compare against the order date, helping assess the timeliness and relevance of the transactions.
-
+---
+## Overview of Tasks done in this Project
 ### **Q1: Top 5 Most Frequently Ordered Dishes by Customer "Arjun Mehta" in the Last 2 Years**
 
 **Overview:**
