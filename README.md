@@ -66,7 +66,7 @@ After confirming the data quality, exploratory analysis was conducted to gain de
 ---
 Files Link
 
-Sql script created in this Project: 
+Sql script created in this Project: <a href ="Zomato SQL Script.sql"> Zomato SQL Script </a>
 
 Pdf of SQlL Query and It’s solution:
 
