@@ -68,7 +68,7 @@ Files Link
 
 Sql script created in this Project: <a href ="Zomato SQL Script.sql"> Zomato SQL Script </a>
 
-Pdf of SQlL Query and It’s solution:
+Pdf of SQlL Query and It’s solution: <a href ="ZOMATO SQL ANALYSIS.pdf"> Zomato SQL Queries and Solution </a>
 
 Docx file of SQL Script and Query:
 
