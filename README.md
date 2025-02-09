@@ -55,16 +55,6 @@ The optimized database design ensures efficient querying, scalability, and relia
 
 Zomato's SQL analysis aims to extract valuable business insights across **customer behavior, restaurant performance, delivery efficiency, and business growth strategies**. Below is an **overall analysis** based on the given SQL questions.
 
-- For Solution of the Business Problem which I Identified for Zomato’ s Team as Data Analyst
-
-- You can See my Solution Pdf  file : <a href ="ZOMATO SQL ANALYSIS.pdf"> Zomato SQL Queries and Solution PDF file </a>
-
-- You can See my Solution Document file :  <a href = "ZOMATO SQL ANALYSIS.docx"> Zomato SQL Queries and Solution Document file </a>
-
-- You can see the SQL Script which I created in this Project : <a href ="Zomato SQL Script.sql"> Zomato SQL Script </a>
-
----
-
 ## **Customer Behavior & Retention Strategy**
 
 ### **Understanding Ordering Patterns**
@@ -121,6 +111,16 @@ Zomato's SQL analysis aims to extract valuable business insights across **custom
 
 - Identifying **seasonal trends in order volume (e.g., summer vs. winter demand)** helps in **predicting demand surges** and adjusting marketing campaigns accordingly.
 - Calculating the **average time between the first and last order for a customer over a year** helps in analyzing **customer lifetime value (CLV)** and retention strategies.
+
+---
+
+- **For Solution of the Business Problem which I Identified for Zomato’ s Team as Data Analyst**
+
+- You can See my Solution Pdf  file : <a href ="ZOMATO SQL ANALYSIS.pdf"> Zomato SQL Queries and Solution PDF file </a>
+
+- You can See my Solution Document file :  <a href = "ZOMATO SQL ANALYSIS.docx"> Zomato SQL Queries and Solution Document file </a>
+
+- You can see the SQL Script which I created in this Project : <a href ="Zomato SQL Script.sql"> Zomato SQL Script </a>
 
 ---
 
