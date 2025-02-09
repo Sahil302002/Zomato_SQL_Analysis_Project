@@ -1,6 +1,8 @@
 
 # **Phase 1 of Zomato Analytics Project: Zomato SQL Analysis**
 
+![Zomato-Logo](https://github.com/user-attachments/assets/4b1fbcb4-476e-4f1c-a118-aa0515b290d4)
+
 This Phase involved analyzing Zomato's database using SQL Server Management Studio to uncover key operational insights and customer trends. The project included data preparation, cleaning, exploratory analysis, and querying to generate actionable business insights.
 
 Zomato is a leading global online food delivery and restaurant discovery platform, connecting customers with restaurants, delivery services, and food providers. As a Data Analyst, I applied advanced SQL techniques to analyze customer behavior, operational efficiency, and restaurant performance, helping Zomato make data-driven decisions.
