@@ -49,9 +49,12 @@ This SQL analysis aims to extract meaningful insights from Zomato’s order and 
 - **Data Quality Checks:** Identified missing values and ensured data completeness.
 - **Exploratory Data Analysis (EDA):** Conducted data exploration to confirm accuracy, extract insights, and analyze customer trends.
 
+![Er Diagram After Relationships](https://github.com/user-attachments/assets/25923c7d-d619-4c6b-84bc-31b4a9a2a2c9)
+
+
 The optimized database design ensures efficient querying, scalability, and reliable insights, enabling data-driven decision-making for Zomato’s operations.
 
-## Problems I Identified as a Data Analyst
+# Problems I Identified as a Data Analyst
 
 Zomato's SQL analysis aims to extract valuable business insights across **customer behavior, restaurant performance, delivery efficiency, and business growth strategies**. Below is an **overall analysis** based on the given SQL questions.
 
@@ -114,15 +117,13 @@ Zomato's SQL analysis aims to extract valuable business insights across **custom
 
 ---
 
-- **For Solution of the Business Problem which I Identified for Zomato’ s Team as Data Analyst**
+ **For Solution of the Business Problem which I Identified for Zomato’ s Team as Data Analyst**
 
 - You can See my Solution Pdf  file : <a href ="ZOMATO SQL ANALYSIS.pdf"> Zomato SQL Queries and Solution PDF file </a>
 
 - You can See my Solution Document file :  <a href = "ZOMATO SQL ANALYSIS.docx"> Zomato SQL Queries and Solution Document file </a>
 
 - You can see the SQL Script which I created in this Project : <a href ="Zomato SQL Script.sql"> Zomato SQL Script </a>
-
----
 
 ## OUTCOME
 
@@ -152,4 +153,3 @@ The key impact of Phase1 for Zomato by solving those business problems includes:
 
 - Analyzing seasonal trends and customer behavior over time allows Zomato to better adapt to market fluctuations, adjust its offerings, and ensure its business strategies remain competitive and responsive to changing consumer needs.
  
-![Er Diagram After Relationships](https://github.com/user-attachments/assets/25923c7d-d619-4c6b-84bc-31b4a9a2a2c9)
