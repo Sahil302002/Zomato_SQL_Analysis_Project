@@ -20,6 +20,28 @@ This SQL analysis aims to extract meaningful insights from Zomato’s order and 
 - **Enhancing Financial Insights** – Evaluating average order values, restaurant profitability, and rider earnings to support data-driven financial planning.
 - This analysis empowers Zomato to make informed business decisions, enhance customer experience, and drive overall operational efficiency.
 
+### **Business Problem to solve in this Project**
+- What are the top 5 most frequently ordered dishes by customer "Arjun Mehta" in the last 2 years?
+- What are the most popular time slots for orders based on 2-hour intervals?
+- What is the average order value (AOV) for customers who placed more than 750 orders?
+- Who are the high-value customers who have spent more than 100K on orders?
+- How many orders have not been delivered (unfulfilled orders)?
+- How are restaurants ranked in terms of revenue from the last year?
+- What is the most popular dish in each city?
+- Who are the customers who placed orders in 2023 but not in 2024 (churn analysis)?
+- What is the comparison of cancellation rates for restaurants between 2023 and 2024?
+- What is the average delivery time for each rider?
+- What is the monthly growth ratio of restaurants based on the number of delivered orders?
+- How can we segment customers into "Gold" or "Silver" based on their total spending and compare them with the average order value (AOV)?
+- What are the total monthly earnings of each rider based on 8% of the delivered order amount?
+- How can we classify riders based on their delivery times and count their ratings (5, 4, or 3 stars)?
+- What are the peak days by order frequency for each restaurant?
+- What is the distribution of orders across different payment methods (e.g., Credit Card, Cash, etc.)?
+- Which restaurants have the highest number of repeat customers (orders placed more than 3 times)?
+- What are the average customer ratings for dishes in the last quarter?
+- How can we determine if there are any seasonal trends in order volume (e.g., more orders in summer vs. winter)?
+- What is the average time between the first and last order for a customer over a year?
+  
 ---
 
 ## **Tools Used in Phase1:**
